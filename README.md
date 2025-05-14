@@ -1,16 +1,12 @@
-# schedule_generator
+# Schedule Generator with Gemini AI
 
-A new Flutter project.
+An application that helps create effective and personalized schedules in seconds. 
 
-## Getting Started
+## 🛠️ Technologies Used
+- Dart 3.7.2 (stable) version
+- Flutter Framework 3.29.3 version
+- Gemini API – for AI-driven schedule generation
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💡 How It Works
+- User inputs preferences (e.g., tasks, time range, deadline)
+- Gemini AI processes and generates a personalized schedule
